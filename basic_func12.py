@@ -7,6 +7,6 @@ def main():
     Returns:
         float: the result
     '''
-    return (float(round(3.1456789,2)))
-result=main()
+    return ((round(3.1456789,2)))
+result=float(main())
 print(result)
