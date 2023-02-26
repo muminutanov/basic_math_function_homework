@@ -8,6 +8,6 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return(b-a)
+    return(abs(a-b))
 x=main(4,11)
 print(x)
