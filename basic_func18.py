@@ -9,7 +9,7 @@ def main(a):
     Returns:
         float: the result.
     '''
-    return(a,(round(a,2)))
+    return(round(a,2))
 x=main(a=math.pi)
 
 print (x)
