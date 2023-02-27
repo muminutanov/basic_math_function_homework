@@ -10,9 +10,8 @@ def main(a):
     Returns:
         float: the result.
     '''
-    return(round(a,2))
+    return(float(round(a,2)))
 x=main(a)
-
 print (x)
 
     
