@@ -1,3 +1,4 @@
+
 def main(a, b):
     '''Find the remainder when a is divided by b and return it.
     
@@ -8,4 +9,6 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return
+    return(a%b)
+x=main(23,5)
+print(x)
