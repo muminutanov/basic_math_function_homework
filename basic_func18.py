@@ -11,7 +11,7 @@ def main(a):
         float: the result.
     '''
     return(float(round(a,2)))
-x=main(a)
+x=main(float(a))
 print (x)
 
     
