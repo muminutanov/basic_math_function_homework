@@ -8,5 +8,5 @@ def main():
         float: the result
     '''
     return (float(round(6.453,2)))
-result=(main())
-print(result)
+x=(main())
+print(x)
